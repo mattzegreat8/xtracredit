@@ -4,8 +4,8 @@ def mux_letters(inputstring, numberoftimes):
         for count in range(numberoftimes):
             xtra= xtra + letter 
     return xtra
-mux_letters("hi",3)
-print(mux_letters("hi",3))
+mux_letters("hi",4)
+print(mux_letters("hi",4))
 	
 
 
